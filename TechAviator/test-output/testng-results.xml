@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10573" started-at="2016-04-03T11:10:44Z" finished-at="2016-04-03T11:10:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10573" started-at="2016-04-03T11:10:44Z" finished-at="2016-04-03T11:10:54Z">
+      <class name="prog105.search">
+        <test-method status="PASS" signature="launch_app()[pri:0, instance:prog105.search@42d80b78]" name="launch_app" is-config="true" duration-ms="7209" started-at="2016-04-03T16:40:44Z" finished-at="2016-04-03T16:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_app -->
+        <test-method status="PASS" signature="scenario()[pri:0, instance:prog105.search@42d80b78]" name="scenario" duration-ms="2546" started-at="2016-04-03T16:40:51Z" finished-at="2016-04-03T16:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="close_app()[pri:0, instance:prog105.search@42d80b78]" name="close_app" is-config="true" duration-ms="800" started-at="2016-04-03T16:40:53Z" finished-at="2016-04-03T16:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_app -->
+      </class> <!-- prog105.search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
